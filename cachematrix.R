@@ -29,7 +29,3 @@ cacheSolve <- function(x, ...) {
         x$setinv(free)
         return(free)
 }
-
-
-
-}
